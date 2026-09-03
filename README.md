@@ -1,4 +1,6 @@
 # Lab_03
 ## This is our Introduction to github lab 
 ### BCS1D
-** BOLD TEXT**
+**This text is
+_extremely_
+important**
